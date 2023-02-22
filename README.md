@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkandTiwari
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning web, blockchain and AI/ML
+- 👀 I’m interested in web and Software Development
+- 🌱 I’m currently learning WebDev, Networking and AI/ML
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me on https://www.linkedin.com/in/skand-tiwari-b58b6a1b1/
 

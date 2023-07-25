@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SkandTiwari
-- 👀 I’m interested in web and Software Development
-- 🌱 I’m currently learning WebDev, Networking and AI/ML
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me on https://www.linkedin.com/in/skand-tiwari-b58b6a1b1/
+- 👋 Hi, I’m @SkandTiwari, a Cisco engineer
+- 👀 I’m interested in Network Automation, Software Development and Cloud Technologies
+- 🌱 I’m currently learning Automation, Cloud and AI/ML
+- 💞️ I’m looking to collaborate for projects that suits to my domain
+- 📫 Reach me on https://www.linkedin.com/in/skand-tiwari-b58b6a1b1/
 
 <!---
 SkandTiwari/SkandTiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
